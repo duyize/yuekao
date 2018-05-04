@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+a {
+  font-size: 16px;
+  color: #000;
+  text-decoration: none;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  width: 100%;
+}
+.header p {
+  height: 45px;
+  display: flex;
+  line-height: 45px;
+  border-bottom: 1px solid #ccc;
+  justify-content: space-between;
+}
+.header .nav {
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+}
+.header .nav ul {
+  width: 100%;
+  display: flex;
+  height: 100%;
+  overflow: hidden;
+}
+.header .nav ul li {
+  flex: 20%;
+  height: 100%;
+}
+.main {
+  width: 100%;
+  overflow-y: scroll;
+  flex: 1;
+}
+.main .shop_lei1 {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+.main .shop {
+  width: 100%;
+}
+.main .shop dl {
+  width: 48%;
+  float: left;
+}
+.main .shop dl dt {
+  height: 20px;
+  font-size: 15px;
+  text-align: center;
+  line-height: 20px;
+}
+.main .shop dl dd img {
+  width: 100%;
+  height: 150px;
+}
+.main .shop dl .price {
+  color: red;
+}

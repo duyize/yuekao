@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/swiper.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./icon/iconfont.css">
+</head>
+<body>
+    <header class="header">
+        <p>
+            <i class="iconfont">&#xe6ce;</i>
+            <span>居家</span>
+            <i class="iconfont">&#xe729;</i>
+        </p>
+        <nav class="nav">
+            <ul class="nav_ul">
+                <script id="nav" type='text/x-handlebars-template'>
+                    {{#each arr}}
+                        <li>{{arr}}</li>
+                    {{/each}}
+                </script>
+            </ul>
+        </nav>
+    </header>
+    <section class="main">
+        <div class="shop_lei1">
+            <script id="lei1" type='text/x-handlebars-template'>
+                 {{#each data}} 
+                    <p>{{xiang}}</p>
+                 {{/each}} 
+            </script>
+        </div>
+        <div class="shop">
+            <script id="shop1" type='text/x-handlebars-template'>
+                {{#each data}}
+                    <a href="./main.html">
+                        <dl>
+                            <dd><img src="{{img}}" alt=""></dd>
+                            <dt>{{name}}</dt>
+                            <dt class="price">{{price}}</dt>
+                        </dl>
+                    </a>    
+                {{/each}}
+            </script>
+        </div>
+    </section>
+    <script src="./js/require.js" data-main="./js/main.js"></script>
+    <script src="./icon/iconfont.js"></script>
+</body>
+</html>

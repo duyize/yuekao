@@ -1,0 +1,318 @@
+{
+    "title" : ["床品件套","被枕","家具","收纳","布艺软装","家饰","宠物"],
+    "bed" :  {
+                "xiang" : "床上用品",
+                "neirong" : [
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥599"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥459"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥546"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥643"
+                    },
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥785"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥952"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥642"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥129"
+                    }
+                ]
+            },
+    "bei" : {
+                "xiang" : "被子枕头",
+                "neirong" : [
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥599"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥459"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥546"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥643"
+                    },
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥785"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥952"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥642"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥129"
+                    }
+                ]
+            },
+    "jia" : {
+                "xiang" : "家居装饰",
+                "neirong" : [
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥599"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥459"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥546"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥643"
+                    },
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥785"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥952"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥642"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥129"
+                    }
+                ]
+            },
+    "shou" : {
+                "xiang" : "收纳",
+                "neirong" : [
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥599"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥459"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥546"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥643"
+                    },
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥785"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥952"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥642"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥129"
+                    }
+                ]  
+            },
+    "bu": {
+                "xiang" : "内蒙古布艺",
+                "neirong" : [
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥599"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥459"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥546"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥643"
+                    },
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥785"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥952"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥642"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥129"
+                    }
+                ] 
+            },
+    "jis": {
+                "xiang" : "装饰你的家",
+                "neirong" : [
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥599"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥459"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥546"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥643"
+                    },
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥785"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥952"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥642"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥129"
+                    }
+                ]  
+            },  
+     "chong": {
+                "xiang" : "宠物",
+                "neirong" : [
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥599"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥459"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥546"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥643"
+                    },
+                    {
+                        "img" : "../imgs/ju1.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥785"
+                    },
+                    {
+                        "img" : "../imgs/ju2.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥952"
+                    },
+                    {
+                        "img" : "../imgs/ju3.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥642"
+                    },
+                    {
+                        "img" : "../imgs/ju4.jpg",
+                        "name" : "欧式天丝四件套",
+                        "price" : "￥129"
+                    }
+                ]  
+            }
+}
